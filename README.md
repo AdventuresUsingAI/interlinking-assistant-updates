@@ -2,10 +2,9 @@
 A versatile tool designed to streamline the process of interlinking and managing content for your websites.
 
 ## Features
-- Load existing post data from JSON.
+- Utilize AI to generate interlinking keywords for each of your wordpress posts.
 - Easily input and manage URL and keyword data via a user-friendly table interface.
 - Supports multiple profiles and base URLs.
-- Merges table data seamlessly into JSON.
 
 ## Installation
 ### Prerequisites
@@ -17,8 +16,6 @@ Choose your platform and download the appropriate version:
 **Windows:** [Download for Windows](https://adventuresusingai.com)
 
 **MacOS:** [Download for MacOS](https://adventuresusingai.com)
-
-**Linux:** [Download for Linux](https://adventuresusingai.com)
 
 Follow the installation prompts after downloading to install and run the application.
 
