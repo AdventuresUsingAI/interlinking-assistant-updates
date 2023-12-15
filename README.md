@@ -13,9 +13,9 @@ Before installation, ensure you have obtained the appropriate license from GumRo
 ### Download and Install
 Choose your platform and download the appropriate version:
 
-**Windows:** [Download for Windows](https://adventuresusingai.com)
+**Windows:** [Download for Windows](https://adventuresusingai.com/interlinking-assistant)
 
-**MacOS:** [Download for MacOS](https://adventuresusingai.com)
+**MacOS:** [Download for MacOS](https://adventuresusingai.com/interlinking-assistant)
 
 Follow the installation prompts after downloading to install and run the application.
 
